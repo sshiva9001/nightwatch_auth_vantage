@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="login"
+    errors="0" failures="0" hostname="" id="" package="login" skipped="6"
+    tests="0" time="0" timestamp="">
+  
+
+  
+
+    
+
+  
+    
+    <testcase
+      name="Test Case-1: Go to login page, check elements" classname="login">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case-2: Login fail, invalid username/pass" classname="login">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case-3: Login fail, invalid username and valid pass" classname="login">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case-4: Login fail, valid username and invalid pass" classname="login">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case-5: Login success, valid email/pass" classname="login">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case-6: Logout success" classname="login">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
